@@ -36,7 +36,7 @@ Feel free to use any part of this repository, although providing some credit (su
 
 [![FindBots Homepage Preview][product-screenshot]](#)
 
-<p align="center">(<a href="site/static/assets/github-images">More screenshots</a>)</p>
+<p align="center">(<a href="github-images">More screenshots</a>)</p>
 
 This is the auto-twitch module for Hope's addon to work. I decided to make it completely separate from the bot for resource optimization.
 
